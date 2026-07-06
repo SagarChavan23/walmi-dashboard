@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Secrets
+credentials.json
+.env
+
+# Streamlit cache
+.streamlit/secrets.toml
